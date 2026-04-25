@@ -1,5 +1,8 @@
 # VM Service Map
 
+![vm-service-map](assets/banner.png)
+
+
 > Turn your server into a professional PDF document with a single Claude Code prompt.
 
 Paste the prompt into Claude Code, answer a few questions, and get a beautifully designed **VM Service Map** PDF — automatically discovering your services via SSH.
